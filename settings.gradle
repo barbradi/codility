@@ -1,0 +1,5 @@
+rootProject.name = 'codility'
+include 'test1'
+rootProject.name = 'codility'
+include 'tests'
+
